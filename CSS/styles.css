@@ -23,3 +23,10 @@ p.intro{
 .images{
     text-align: center;
 }
+.flashy{
+  color: red;
+  font-style: italic;
+}
+.best{
+  color: #9c70b2;
+}
