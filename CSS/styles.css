@@ -1,0 +1,25 @@
+body{
+  background-color: #fffdfc;
+}
+
+header{
+  background-image: url("../Images/header.jpg");
+  background-size: contain;
+}
+h1{
+  text-align: center;
+  color: #313e42;
+  font-family: serif;
+}
+
+h2{
+  text-align: center;
+  color: #313e42;
+  font-family: serif;
+}
+p.intro{
+  text-align: center;
+}
+.images{
+    text-align: center;
+}
